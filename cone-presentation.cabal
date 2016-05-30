@@ -1,0 +1,44 @@
+
+name:                cc-presentation
+version:             0.1.0.0
+synopsis:            Interactive Presentation app using ConeCanvas
+-- description:
+-- homepage:            github.com/TODO/cone-presentation
+license:             AllRightsReserved
+author:              Michael Karg
+maintainer:          michael.karg@symbolian.net
+category:            Web
+build-type:          Simple
+extra-source-files:  README.md
+cabal-version:       >=1.10
+
+
+Flag Release
+    Description:    Disables all debugging/testing types, instances and code
+    Default:        False
+
+
+executable cone-presentation
+  main-is:      Main.hs
+
+  ghc-options:  -threaded -with-rtsopts=-N
+
+  build-depends:
+    base        >= 4.8 && < 5,
+    aeson       >= 0.11.1,
+    text        >= 1.1,
+    bytestring  >= 0.10,
+    warp        >= 3.2,
+    ConeServer  >= 0.4.0.1,
+    mtl         >= 2.2.1,
+    directory
+
+  hs-source-dirs:           src
+
+  default-language:         Haskell2010
+
+  if flag(Release)
+        cpp-options:        -DRELEASE
+        ghc-options:        -O2 -funbox-strict-fields
+  else
+        ghc-options:        -Wall -fno-warn-unused-do-bind

@@ -1,2 +1,4 @@
 # cone-presentation
-Interactive presentation app for ConeCanvas
+Interactive Presentation app using ConeCanvas
+
+# (c) Symbolian GmbH 2016
