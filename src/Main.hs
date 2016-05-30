@@ -15,33 +15,33 @@ import Data.List                (intercalate)
 srvPort :: Port
 srvPort = 8091
 
+mandatoryFiles :: [FilePath]
+mandatoryFiles = ["model.json", "script.json", "html/index.html"]
+
 
 -- TODO scan multiple subdirectories for presentations / have multiple html roots
 
 doesPresentationExist :: IO Bool
-doesPresentationExist = do
-    check <- and <$> sequence
+doesPresentationExist =
+    and <$> sequence
         [ doesFileExist fullPath
             | f <- mandatoryFiles
             , let fullPath = concat [presentationSubDir, "/", f]
         ]
-    unless check $ putStrLn $ unlines
-        [ "WARNING: presentation data not found"
-        , "    - maybe create a soft-link to some presentation folder?"
-        , "      e.g. 'ln -s /path/to/ConeCanvasPresentation " ++ presentationSubDir ++ "'"
-        , "    - check for presence of all mandatory files in the presentation folder:"
-        , "     " ++ intercalate ", " mandatoryFiles
-        ]
-    return check
-  where
-    mandatoryFiles = ["model.json", "script.json", "html/index.html"]
 
 
 main, main' :: IO ()
 main = do
     putStrLn "ConePresentation framework (c) Symbolian GmbH 2016"
     ok <- doesPresentationExist
-    when ok main'
+    if ok then main' else putStrLn $ unlines
+        [ ""
+        , " ! WARNING: presentation data not found"
+        , "    - maybe create a link to some presentation folder?"
+        , "      e.g. 'ln -s /path/to/ConeCanvasPresentation " ++ presentationSubDir ++ "'"
+        , "    - check for presence of all mandatory files in the presentation folder:"
+        , "      " ++ intercalate ", " mandatoryFiles
+        ]
 
 main' = do
     baseDir <- getCurrentDirectory
