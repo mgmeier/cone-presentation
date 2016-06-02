@@ -16,7 +16,7 @@ srvPort :: Port
 srvPort = 8091
 
 mandatoryFiles :: [FilePath]
-mandatoryFiles = ["model.json", "script.json", "html/index.html"]
+mandatoryFiles = ["html/model.json", "html/script.json", "html/index.html"]
 
 
 -- TODO scan multiple subdirectories for presentations / have multiple html roots
@@ -46,7 +46,7 @@ main = do
 main' = do
     baseDir <- getCurrentDirectory
 
-    token@(sessGlobal, _) <- initServer srvPort baseDir False
+    token@(sessGlobal, _) <- initServer srvPort (baseDir ++ "/" ++ presentationSubDir) False
 
     putStrLn $ "starting on localhost:" ++ show srvPort
 

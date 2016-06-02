@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ConeCanvas Presentation</title>
+	<meta charset="utf-8" />
+
+	<!-- link rel="stylesheet" type="text/css" href="canvasdemo.css" /> -->
+
+    <script type="text/javascript" src="js/ConePresentation.js"></script>
+    <script type="text/javascript">
+            // global variables, accessible from PS module
+            var gl;
+            var globDivCanvas;
+            var coneAPI;
+
+            var globSetURL = function (newUrl) {
+                console.log("globSetURL: " + newUrl)
+                if (newUrl)
+                    document.getElementById("democontent").src = newUrl;
+            };
+            var globSelectedPrim = function (entry) {
+                console.log("globSelectedPrim: " + entry)
+            };
+
+            window.onload = function() {
+                // blur the iframe
+                document.getElementById("democontent").blur();
+                // set focus on #glcanvas
+                document.getElementById("glcanvas").focus();
+                // when iframe tries to focus, focus #glcanvas
+                document.getElementById("glcanvas").onblur = function() {
+                    this.focus();
+                };
+                /*
+                $('#democontent').load(function(){
+                    var url = this.contentWindow.location.pathname;
+                    console.log("iframe location change: ".concat(url));
+                    coneAPI.navigateToCone(url)();
+                });
+                var continuation = function (api){
+                    return function () {
+                        coneAPI = api;
+                    };
+                };
+                PS["Main"].main(continuation)();
+                */
+                init();
+            };
+    </script>
+  </head>
+
+  <body>
+    Testpage 1 2 3<br>
+    
+    <div class='wrapper'>
+        <div class='container'>
+            <canvas id="glcanvas" width="593" height="950" tabindex="1">
+              Your browser doesn't appear to support the HTML5 <code>&lt;canvas&gt;</code> element.</canvas>
+        </div>
+
+        <div class='container'>
+            <iframe id="democontent" src="about:blank" frameborder="0"></iframe>
+        </div>
+    </div>
+
+    <div class='wrapper'>
+        <canvas hidden id="textureCanvas" width="320" height="64" style="border: 1px solid black" >
+          Your browser doesn't appear to support the HTML5.</canvas>
+    </div>
+  </body>
+</html>

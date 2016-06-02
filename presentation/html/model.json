@@ -1,0 +1,1240 @@
+{
+    "basePrefix": "prefix",
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "iconName": "Rikunabi Direct.png",
+                            "isLeaf": true,
+                            "targetUri": "http://job.rikunabi.com/",
+                            "textId": "tId_Rikunabi",
+                            "label": "Rikunabi"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Indeed.png",
+                            "isLeaf": true,
+                            "textId": "tId_Indeed.com",
+                            "label": "Indeed.com"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "SPI3.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.spi.recruit.co.jp/",
+                            "textId": "tId_SPI3",
+                            "label": "SPI3"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Work In Japan.png",
+                            "isLeaf": true,
+                            "targetUri": "http://workinjapan.cn/",
+                            "textId": "tId_Work In Japan",
+                            "label": "Work In Japan"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Hatalike.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.hatalike.jp/h/r/H100010s.jsp?__u=1455263584318-8926304614835521530",
+                            "textId": "tId_Hatalike",
+                            "label": "Hatalike"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Shushoku Shop.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.ss-shop.jp/",
+                            "textId": "tId_Shushoku Shop",
+                            "label": "Shushoku Shop"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Rikunabi Direct.png",
+                            "isLeaf": true,
+                            "targetUri": "http://rikunabi-direct.jp/",
+                            "textId": "tId_Rikunabi Direct",
+                            "label": "Rikunabi Direct"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Shushoku Journal.png",
+                            "isLeaf": true,
+                            "targetUri": "http://journal.rikunabi.com/",
+                            "textId": "tId_Shushoku Journal",
+                            "label": "Shushoku Journal"
+                        }
+                    ],
+                    "isLeaf": false,
+                    "targetUri": "http://www.recruit-rgf.com/service/human_resources/finding_employment/",
+                    "textId": "tId_Finding Employment",
+                    "label": "Finding Employment"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "iconName": "Recruit Medical Career.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.recruit-mc.co.jp/",
+                            "textId": "tId_Recruit Medical Career",
+                            "label": "Recruit Medical Career"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Recruit Executive Agent.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.recruit-ex.co.jp/en/",
+                            "textId": "tId_Recruit Executive Agent",
+                            "label": "Recruit Executive Agent"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "CAREER CARVER.png",
+                            "isLeaf": true,
+                            "targetUri": "https://careercarver.jp/",
+                            "textId": "tId_CAREER CARVER",
+                            "label": "CAREER CARVER"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "CDS (CDSi K.K.).png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.cds-consulting.com/e/",
+                            "textId": "tId_CDS (CDSi K.K.)",
+                            "label": "CDS (CDSi K.K.)"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Indeed.png",
+                            "isLeaf": true,
+                            "textId": "tId_Indeed.com",
+                            "label": "Indeed.com"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Townwork Shain.png",
+                            "isLeaf": true,
+                            "targetUri": "https://townwork.net/kantou/shain/",
+                            "textId": "tId_Townwork Shain",
+                            "label": "Townwork Shain"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Rikunabi Next Tech Soken.png",
+                            "isLeaf": true,
+                            "targetUri": "http://next.rikunabi.com/",
+                            "textId": "tId_Rikunabi Next",
+                            "label": "Rikunabi Next"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Recruit Agent.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.r-agent.co.jp/",
+                            "textId": "tId_Recruit Agent",
+                            "label": "Recruit Agent"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Shushoku Shop.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.ss-shop.jp/",
+                            "textId": "tId_Shushoku Shop",
+                            "label": "Shushoku Shop"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Rikunabi Next Tech Soken.png",
+                            "isLeaf": true,
+                            "targetUri": "http://next.rikunabi.com/tech_souken/",
+                            "textId": "tId_Rikunabi Next Tech Soken",
+                            "label": "Rikunabi Next Tech Soken"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "RGF Executive Search.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.rgf-executive.com/",
+                            "textId": "tId_RGF Executive Search",
+                            "label": "RGF Executive Search"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Hatalike.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.hatalike.jp/h/r/H100010s.jsp?__u=1455263584318-8926304614835521530",
+                            "textId": "tId_Hatalike",
+                            "label": "Hatalike"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "CodeIQ.png",
+                            "isLeaf": true,
+                            "targetUri": "https://codeiq.jp/",
+                            "textId": "tId_CodeIQ",
+                            "label": "CodeIQ"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "RGF HR Agent.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.rgf-hragent.asia/en/hongkong",
+                            "textId": "tId_RGF HR Agent",
+                            "label": "RGF HR Agent"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Minna-no-Kyujinban.png",
+                            "isLeaf": true,
+                            "targetUri": "http://kyujinban.jp/",
+                            "textId": "tId_Minna-no-Kyujinban",
+                            "label": "Minna-no-Kyujinban"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Travaille.png",
+                            "isLeaf": true,
+                            "targetUri": "http://toranet.jp/t/r/T100010s.jsp",
+                            "textId": "tId_Travaille",
+                            "label": "Travaille"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "BRecruit.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.brecruit.com/index.html",
+                            "textId": "tId_BRecruit",
+                            "label": "BRecruit"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Bó Lè Associates.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.bo-le.com/",
+                            "textId": "tId_BÃ³ LÃ¨ Associates",
+                            "label": "BÃ³ LÃ¨ Associates"
+                        }
+                    ],
+                    "isLeaf": false,
+                    "targetUri": "http://www.recruit-rgf.com/service/human_resources/changing_job/",
+                    "textId": "tId_Changing Jobs",
+                    "label": "Changing Jobs"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "iconName": "Indeed.png",
+                            "isLeaf": true,
+                            "textId": "tId_Indeed.com",
+                            "label": "Indeed.com"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Minna-no-Kyujinban.png",
+                            "isLeaf": true,
+                            "targetUri": "http://kyujinban.jp/",
+                            "textId": "tId_Minna-no-Kyujinban",
+                            "label": "Minna-no-Kyujinban"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "From A Navi.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.froma.com/",
+                            "textId": "tId_From A Navi",
+                            "label": "From A Navi"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Travaille.png",
+                            "isLeaf": true,
+                            "targetUri": "http://toranet.jp/t/r/T100010s.jsp",
+                            "textId": "tId_Travaille",
+                            "label": "Travaille"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Townwork Shain.png",
+                            "isLeaf": true,
+                            "targetUri": "https://townwork.net/",
+                            "textId": "tId_Townwork",
+                            "label": "Townwork"
+                        }
+                    ],
+                    "isLeaf": false,
+                    "targetUri": "http://www.recruit-rgf.com/service/human_resources/part-time_jobs/",
+                    "textId": "tId_Part-Time Jobs",
+                    "label": "Part-Time Jobs"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "iconName": "Staff Service Group.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.staffservice.co.jp/",
+                            "textId": "tId_Staff Service Group",
+                            "label": "Staff Service Group"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Staffmark.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.staffmark.com/home/",
+                            "textId": "tId_Staffmark",
+                            "label": "Staffmark"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "CSI.png",
+                            "isLeaf": true,
+                            "targetUri": "http://thecsicompanies.com/",
+                            "textId": "tId_CSI",
+                            "label": "CSI"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Advantage Resourcing.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.advantageresourcing.com/home.aspx?p_PageAlias=home",
+                            "textId": "tId_Advantage Resourcing",
+                            "label": "Advantage Resourcing"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Peoplebank Australia.png",
+                            "isLeaf": true,
+                            "targetUri": "https://www.peoplebank.com.au/?",
+                            "textId": "tId_Peoplebank Australia",
+                            "label": "Peoplebank Australia"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Travaille.png",
+                            "isLeaf": true,
+                            "targetUri": "http://toranet.jp/t/r/T100010s.jsp",
+                            "textId": "tId_Travaille",
+                            "label": "Travaille"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Rikunabi Haken.png",
+                            "isLeaf": true,
+                            "targetUri": "http://haken.rikunabi.com/",
+                            "textId": "tId_Rikunabi Haken",
+                            "label": "Rikunabi Haken"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Recruit Staffing.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.r-staffing.co.jp/",
+                            "textId": "tId_Recruit Staffing",
+                            "label": "Recruit Staffing"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Chandler Macleod Group Limited.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.chandlermacleod.com/",
+                            "textId": "tId_Chandler Macleod Group Limited",
+                            "label": "Chandler Macleod Group Limited"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Atterro.png",
+                            "isLeaf": true,
+                            "targetUri": "http://atterro.com/",
+                            "textId": "tId_Atterro",
+                            "label": "Atterro"
+                        }
+                    ],
+                    "iconName": "Recruit Staffing.png",
+                    "isLeaf": false,
+                    "targetUri": "http://www.recruit-rgf.com/service/human_resources/temporary_staffing/",
+                    "textId": "tId_Temporary Staffing",
+                    "label": "Temporary Staffing"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "iconName": "Recruit Management Solutions.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.recruit-ms.co.jp/",
+                            "textId": "tId_Recruit Management Solutions",
+                            "label": "Recruit Management Solutions"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Recruit Learning Club.png",
+                            "isLeaf": true,
+                            "targetUri": "http://recruit-lc.jp/",
+                            "textId": "tId_Recruit Learning Club",
+                            "label": "Recruit Learning Club"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "ReCoBook.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.recobook.recruit.co.jp/",
+                            "textId": "tId_ReCoBook",
+                            "label": "ReCoBook"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Recruit Management School.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.recruit-ms.co.jp/open-course/",
+                            "textId": "tId_Recruit Management School",
+                            "label": "Recruit Management School"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Entre.png",
+                            "isLeaf": true,
+                            "targetUri": "http://entrenet.jp/",
+                            "textId": "tId_Entre",
+                            "label": "Entre"
+                        }
+                    ],
+                    "isLeaf": false,
+                    "targetUri": "http://www.recruit-rgf.com/service/human_resources/sif/",
+                    "textId": "tId_Self-Employment / Independent Businesses / Others",
+                    "label": "Self-Employment / Independent Businesses / Others"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "iconName": "Recruit Management School.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.recruit-ms.co.jp/open-course/",
+                            "textId": "tId_Recruit Management School",
+                            "label": "Recruit Management School"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Recruit Learning Club.png",
+                            "isLeaf": true,
+                            "targetUri": "http://recruit-lc.jp/",
+                            "textId": "tId_Recruit Learning Club",
+                            "label": "Recruit Learning Club"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Recruit Management Solutions.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.recruit-ms.co.jp/",
+                            "textId": "tId_Recruit Management Solutions",
+                            "label": "Recruit Management Solutions"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Works.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.works-i.com/english/",
+                            "textId": "tId_Works",
+                            "label": "Works"
+                        }
+                    ],
+                    "isLeaf": false,
+                    "targetUri": "http://www.recruit-rgf.com/service/human_resources/research/",
+                    "textId": "tId_Research",
+                    "label": "Research"
+                }
+            ],
+            "baseColors": [
+                "#f07942"
+            ],
+            "isLeaf": false,
+            "baseColorModifiers": null,
+            "targetUri": "http://www.recruit-rgf.com/service/human_resources/",
+            "textId": "tId_Human Resources",
+            "label": "Human Resources"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "isLeaf": true,
+                            "targetUri": "http://r25.yahoo.co.jp/",
+                            "textId": "tId_R25",
+                            "label": "R25"
+                        }
+                    ],
+                    "isLeaf": false,
+                    "targetUri": "http://www.recruit-rgf.com/service/it_trends/",
+                    "textId": "tId_Information for Business People",
+                    "label": "Information for Business People"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "isLeaf": true,
+                            "targetUri": "http://l25.jp/",
+                            "textId": "tId_L25",
+                            "label": "L25"
+                        }
+                    ],
+                    "isLeaf": false,
+                    "targetUri": "http://www.recruit-rgf.com/service/it_trends/",
+                    "textId": "tId_Information for Working Women",
+                    "label": "Information for Working Women"
+                }
+            ],
+            "baseColors": [
+                "#3e91cd"
+            ],
+            "isLeaf": false,
+            "baseColorModifiers": null,
+            "targetUri": "http://www.recruit-rgf.com/service/it_trends/",
+            "textId": "tId_IT &Trends Media",
+            "label": "IT &Trends Media"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "iconName": "Jyuken Sapuri.png",
+                            "isLeaf": true,
+                            "targetUri": "https://jyukensapuri.jp/",
+                            "textId": "tId_Jyuken Sapuri",
+                            "label": "Jyuken Sapuri"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Rikunabi Shingaku Book.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.recruit-rgf.com/service/education/shingaku-b.html",
+                            "textId": "tId_Rikunabi Shingaku Book",
+                            "label": "Rikunabi Shingaku Book"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Rikunabi Shingaku Book.png",
+                            "isLeaf": true,
+                            "targetUri": "http://shingakunet.com/",
+                            "textId": "tId_Rikunabi Shingaku",
+                            "label": "Rikunabi Shingaku"
+                        }
+                    ],
+                    "isLeaf": false,
+                    "targetUri": "http://www.recruit-rgf.com/service/education/",
+                    "textId": "tId_University / College",
+                    "label": "University / College"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "iconName": "Eitango sapuri.png",
+                            "isLeaf": true,
+                            "targetUri": "https://eitangosapuri.jp/",
+                            "textId": "tId_Eitango sapuri",
+                            "label": "Eitango sapuri"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Benkyo Sapuri.png",
+                            "isLeaf": true,
+                            "targetUri": "https://benkyosapuri.jp/",
+                            "textId": "tId_Benkyo Sapuri",
+                            "label": "Benkyo Sapuri"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Eikaiwa Sapuri.png",
+                            "isLeaf": true,
+                            "targetUri": "https://eikaiwasapuri.jp/",
+                            "textId": "tId_Eikaiwa Sapuri",
+                            "label": "Eikaiwa Sapuri"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Rikunabi Shingaku Career Guidance.png",
+                            "isLeaf": true,
+                            "targetUri": "http://souken.shingakunet.com/",
+                            "textId": "tId_Rikunabi Shingaku: Career Guidance",
+                            "label": "Rikunabi Shingaku: Career Guidance"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Recruit Management School.png",
+                            "isLeaf": true,
+                            "targetUri": "http://souken.shingakunet.com/",
+                            "textId": "tId_College Management",
+                            "label": "College Management"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Recruit Management School.png",
+                            "isLeaf": true,
+                            "targetUri": "https://www.quipper.com/en",
+                            "textId": "tId_Quipper School",
+                            "label": "Quipper School"
+                        }
+                    ],
+                    "isLeaf": false,
+                    "targetUri": "http://www.recruit-rgf.com/service/education/",
+                    "textId": "tId_Other Education Information",
+                    "label": "Other Education Information"
+                }
+            ],
+            "baseColors": [
+                "#3cb3a1"
+            ],
+            "isLeaf": false,
+            "baseColorModifiers": null,
+            "targetUri": "http://www.recruit-rgf.com/service/education/",
+            "textId": "tId_Education",
+            "label": "Education"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "iconName": "PegiPegi.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.pegipegi.com/",
+                            "textId": "tId_PegiPegi",
+                            "label": "PegiPegi"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "TravelBook.ph.png",
+                            "isLeaf": true,
+                            "textId": "tId_TravelBook.ph",
+                            "label": "TravelBook.ph"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Jalan Golf.png",
+                            "isLeaf": true,
+                            "targetUri": "https://golf-jalan.net/",
+                            "textId": "tId_Jalan Golf",
+                            "label": "Jalan Golf"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Mytour.png",
+                            "isLeaf": true,
+                            "targetUri": "http://mytour.vn/",
+                            "textId": "tId_Mytour",
+                            "label": "Mytour"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Jalan Golf.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.jalan.net/",
+                            "textId": "tId_Jalan",
+                            "label": "Jalan"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "AB-Road.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.ab-road.net/",
+                            "textId": "tId_AB-Road",
+                            "label": "AB-Road"
+                        }
+                    ],
+                    "isLeaf": false,
+                    "targetUri": "http://www.recruit-rgf.com/service/travel/",
+                    "textId": "tId_Domestic / International Travel",
+                    "label": "Domestic / International Travel"
+                }
+            ],
+            "baseColors": [
+                "#38b4ec"
+            ],
+            "isLeaf": false,
+            "baseColorModifiers": null,
+            "targetUri": "http://www.recruit-rgf.com/service/travel/",
+            "textId": "tId_Travel",
+            "label": "Travel"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "iconName": "Chumon Jutaku by Suumo.png",
+                            "isLeaf": true,
+                            "targetUri": "http://suumo.jp/",
+                            "textId": "tId_Suumo",
+                            "label": "Suumo"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Movoto.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.movoto.com/",
+                            "textId": "tId_Movoto",
+                            "label": "Movoto"
+                        }
+                    ],
+                    "iconName": "Suumo Housing.png",
+                    "isLeaf": false,
+                    "targetUri": "http://www.recruit-rgf.com/service/housing/",
+                    "textId": "tId_Housing & Real Estate",
+                    "label": "Housing & Real Estate"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "iconName": "Chumon Jutaku by Suumo.png",
+                            "isLeaf": true,
+                            "targetUri": "http://suumo.jp/",
+                            "textId": "tId_Suumo",
+                            "label": "Suumo"
+                        }
+                    ],
+                    "isLeaf": false,
+                    "targetUri": "http://www.recruit-rgf.com/service/housing/",
+                    "textId": "tId_Selling",
+                    "label": "Selling"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "iconName": "Chumon Jutaku by Suumo.png",
+                            "isLeaf": true,
+                            "targetUri": "http://suumo.jp/",
+                            "textId": "tId_Suumo",
+                            "label": "Suumo"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Suumo Magazine.png",
+                            "isLeaf": true,
+                            "targetUri": "http://suumo.jp/edit/series/magazine/",
+                            "textId": "tId_Suumo Magazine",
+                            "label": "Suumo Magazine"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Toshin-ni-Sumu.png",
+                            "isLeaf": true,
+                            "targetUri": "http://suumo.jp/edit/series/toshin/",
+                            "textId": "tId_Toshin-ni-Sumu",
+                            "label": "Toshin-ni-Sumu"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Suumo Counter Shinchiku Mansion.png",
+                            "isLeaf": true,
+                            "targetUri": "http://suumo.jp/edit/series/mansion_honshi/",
+                            "textId": "tId_Suumo Shinchiku Mansion",
+                            "label": "Suumo Shinchiku Mansion"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Suumo Counter Shinchiku Mansion.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.suumocounter.jp/mansion/",
+                            "textId": "tId_Suumo Counter Shinchiku Mansion",
+                            "label": "Suumo Counter Shinchiku Mansion"
+                        }
+                    ],
+                    "isLeaf": false,
+                    "targetUri": "http://www.recruit-rgf.com/service/housing/",
+                    "textId": "tId_Buying Houses",
+                    "label": "Buying Houses"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "iconName": "Chumon Jutaku by Suumo.png",
+                            "isLeaf": true,
+                            "targetUri": "http://suumo.jp/edit/series/chumon/",
+                            "textId": "tId_Chumon Jutaku by Suumo",
+                            "label": "Chumon Jutaku by Suumo"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Suumo Counter Chumon Jutaku.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.suumocounter.jp/chumon/?vos=dsmcrect20110415006",
+                            "textId": "tId_Suumo Counter Chumon Jutaku",
+                            "label": "Suumo Counter Chumon Jutaku"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Chumon Jutaku by Suumo.png",
+                            "isLeaf": true,
+                            "targetUri": "http://suumo.jp/",
+                            "textId": "tId_Suumo",
+                            "label": "Suumo"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Suumo Housing.png",
+                            "isLeaf": true,
+                            "targetUri": "http://suumo.jp/edit/series/crr/housing/",
+                            "textId": "tId_Suumo Housing",
+                            "label": "Suumo Housing"
+                        }
+                    ],
+                    "isLeaf": false,
+                    "targetUri": "http://www.recruit-rgf.com/service/housing/",
+                    "textId": "tId_Custom-Built Houses",
+                    "label": "Custom-Built Houses"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "iconName": "Chumon Jutaku by Suumo.png",
+                            "isLeaf": true,
+                            "targetUri": "http://suumo.jp/",
+                            "textId": "tId_Suumo",
+                            "label": "Suumo"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Good Reform.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.goodreform.jp/",
+                            "textId": "tId_Good Reform",
+                            "label": "Good Reform"
+                        }
+                    ],
+                    "isLeaf": false,
+                    "targetUri": "http://www.recruit-rgf.com/service/housing/",
+                    "textId": "tId_Renovation",
+                    "label": "Renovation"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "iconName": "Office Movement.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.officemovement.com/",
+                            "textId": "tId_Office Movement",
+                            "label": "Office Movement"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Chumon Jutaku by Suumo.png",
+                            "isLeaf": true,
+                            "targetUri": "http://suumo.jp/",
+                            "textId": "tId_Suumo",
+                            "label": "Suumo"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Suumo Magazine.png",
+                            "isLeaf": true,
+                            "targetUri": "http://suumo.jp/edit/series/magazine/",
+                            "textId": "tId_Suumo Magazine",
+                            "label": "Suumo Magazine"
+                        }
+                    ],
+                    "isLeaf": false,
+                    "targetUri": "http://www.recruit-rgf.com/service/housing/",
+                    "textId": "tId_Rent",
+                    "label": "Rent"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "iconName": "Suumo Hikkoshi Mitsumori.png",
+                            "isLeaf": true,
+                            "targetUri": "http://hikkoshi.suumo.jp/",
+                            "textId": "tId_Suumo Hikkoshi Mitsumori",
+                            "label": "Suumo Hikkoshi Mitsumori"
+                        }
+                    ],
+                    "isLeaf": false,
+                    "targetUri": "http://www.recruit-rgf.com/service/housing/",
+                    "textId": "tId_Local Info",
+                    "label": "Local Info"
+                }
+            ],
+            "baseColors": [
+                "#87c861"
+            ],
+            "iconName": "Suumo Housing.png",
+            "isLeaf": false,
+            "baseColorModifiers": null,
+            "targetUri": "http://www.recruit-rgf.com/service/housing/",
+            "textId": "tId_Housing",
+            "label": "Housing"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "iconName": "Zexy Enmusubi(matchmaking service).png",
+                    "isLeaf": true,
+                    "targetUri": "http://zexy.net/",
+                    "textId": "tId_Zexy",
+                    "label": "Zexy"
+                },
+                {
+                    "children": [],
+                    "iconName": "Zexy Overseas Wedding.png",
+                    "isLeaf": true,
+                    "targetUri": "http://zexy.net/abroad/",
+                    "textId": "tId_Zexy Overseas Wedding",
+                    "label": "Zexy Overseas Wedding"
+                },
+                {
+                    "children": [],
+                    "iconName": "Zexy Resort Wedding.png",
+                    "isLeaf": true,
+                    "targetUri": "http://zexy.net/resort/",
+                    "textId": "tId_Zexy Resort Wedding",
+                    "label": "Zexy Resort Wedding"
+                },
+                {
+                    "children": [],
+                    "iconName": "Zexy Premier.png",
+                    "isLeaf": true,
+                    "targetUri": "http://zexy.net/mar/honshi/premier.html",
+                    "textId": "tId_Zexy Premier",
+                    "label": "Zexy Premier"
+                },
+                {
+                    "children": [],
+                    "iconName": "zexy insurance counsering counter.png",
+                    "isLeaf": true,
+                    "targetUri": "http://hoken.zexy.net/",
+                    "textId": "tId_zexy insurance counsering counter",
+                    "label": "zexy insurance counsering counter"
+                },
+                {
+                    "children": [],
+                    "iconName": "Zexy Koimusubi(online dating service).png",
+                    "isLeaf": true,
+                    "targetUri": "https://zexy-koimusubi.net/",
+                    "textId": "tId_Zexy Koimusubi(online dating service)",
+                    "label": "Zexy Koimusubi(online dating service)"
+                },
+                {
+                    "children": [],
+                    "iconName": "Zexy Enmusubi(matchmaking service).png",
+                    "isLeaf": true,
+                    "targetUri": "http://www.recruit-rgf.com/service/bridal/enmusubi.html",
+                    "textId": "tId_Zexy Enmusubi(matchmaking service)",
+                    "label": "Zexy Enmusubi(matchmaking service)"
+                },
+                {
+                    "children": [],
+                    "iconName": "Zexy Wedding Consulting Counter.png",
+                    "isLeaf": true,
+                    "targetUri": "http://zexy.net/navi/",
+                    "textId": "tId_Zexy Wedding Consulting Counter",
+                    "label": "Zexy Wedding Consulting Counter"
+                }
+            ],
+            "baseColors": [
+                "#e93d9e"
+            ],
+            "isLeaf": false,
+            "baseColorModifiers": null,
+            "targetUri": "http://www.recruit-rgf.com/service/bridal/",
+            "textId": "tId_Bridal",
+            "label": "Bridal"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "iconName": "Car Sensor Edge.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.carsensor.net/",
+                            "textId": "tId_Car Sensor",
+                            "label": "Car Sensor"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "D-Ucar.net.png",
+                            "isLeaf": true,
+                            "textId": "tId_D-Ucar.net",
+                            "label": "D-Ucar.net"
+                        }
+                    ],
+                    "isLeaf": false,
+                    "targetUri": "http://www.recruit-rgf.com/service/automobiles/",
+                    "textId": "tId_Used Cars",
+                    "label": "Used Cars"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "iconName": "Car Sensor Edge.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.carsensor-edge.net/",
+                            "textId": "tId_Car Sensor Edge",
+                            "label": "Car Sensor Edge"
+                        }
+                    ],
+                    "isLeaf": false,
+                    "targetUri": "http://www.recruit-rgf.com/service/automobiles/",
+                    "textId": "tId_Premium Cars",
+                    "label": "Premium Cars"
+                }
+            ],
+            "baseColors": [
+                "#f4a53b"
+            ],
+            "isLeaf": false,
+            "baseColorModifiers": null,
+            "targetUri": "http://www.recruit-rgf.com/service/automobiles/",
+            "textId": "tId_Automobiles",
+            "label": "Automobiles"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "iconName": "Hot Pepper Beauty.png",
+                    "isLeaf": true,
+                    "targetUri": "http://www.hotpepper.jp/",
+                    "textId": "tId_Hot Pepper Gourmet",
+                    "label": "Hot Pepper Gourmet"
+                },
+                {
+                    "children": [],
+                    "isLeaf": true,
+                    "targetUri": "https://www.quandoo.de/",
+                    "textId": "tId_Quandoo",
+                    "label": "Quandoo"
+                }
+            ],
+            "baseColors": [
+                "#ebc739"
+            ],
+            "isLeaf": false,
+            "baseColorModifiers": null,
+            "targetUri": "http://www.recruit-rgf.com/service/dining/",
+            "textId": "tId_Dining",
+            "label": "Dining"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "iconName": "Hot Pepper Beauty.png",
+                    "isLeaf": true,
+                    "targetUri": "http://beauty.hotpepper.jp/",
+                    "textId": "tId_Hot Pepper Beauty",
+                    "label": "Hot Pepper Beauty"
+                }
+            ],
+            "baseColors": [
+                "#a749a1"
+            ],
+            "iconName": "Hot Pepper Beauty.png",
+            "isLeaf": false,
+            "baseColorModifiers": null,
+            "targetUri": "http://www.recruit-rgf.com/service/beauty/",
+            "textId": "tId_Beauty",
+            "label": "Beauty"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "iconName": "Marqrel.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.marqrel.jp/",
+                            "textId": "tId_Marqrel",
+                            "label": "Marqrel"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Ponpare Mall.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.ponparemall.com/",
+                            "textId": "tId_Ponpare Mall",
+                            "label": "Ponpare Mall"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Ponpare Mall.png",
+                            "isLeaf": true,
+                            "targetUri": "http://ponpare.jp/",
+                            "textId": "tId_Ponpare",
+                            "label": "Ponpare"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Eruca.png",
+                            "isLeaf": true,
+                            "targetUri": "http://eruca.jp/",
+                            "textId": "tId_Eruca",
+                            "label": "Eruca"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "FunCart.png",
+                            "isLeaf": true,
+                            "targetUri": "http://fcart.jp/",
+                            "textId": "tId_FunCart",
+                            "label": "FunCart"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Ninsugu.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.recruit-rgf.com/service/local_life/ninsugu.html",
+                            "textId": "tId_Ninsugu",
+                            "label": "Ninsugu"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Akasugu.png",
+                            "isLeaf": true,
+                            "targetUri": "http://akasugu.fcart.jp/",
+                            "textId": "tId_Akasugu",
+                            "label": "Akasugu"
+                        }
+                    ],
+                    "isLeaf": false,
+                    "targetUri": "http://www.recruit-rgf.com/service/local_life/",
+                    "textId": "tId_Discount Tickets / Mail Order",
+                    "label": "Discount Tickets / Mail Order"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "iconName": "Ryori Sapuri.png",
+                            "isLeaf": true,
+                            "targetUri": "https://ryorisapuri.jp/about",
+                            "textId": "tId_Ryori Sapuri",
+                            "label": "Ryori Sapuri"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Shikaku Sapuri.png",
+                            "isLeaf": true,
+                            "targetUri": "https://shikakusapuri.jp/",
+                            "textId": "tId_Shikaku Sapuri",
+                            "label": "Shikaku Sapuri"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Tsushin-koza Daijiten.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.recruit-rgf.com/service/local_life/tkdaijiten.html",
+                            "textId": "tId_Tsushin-koza Daijiten",
+                            "label": "Tsushin-koza Daijiten"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Oshieru Manaberu.png",
+                            "isLeaf": true,
+                            "targetUri": "http://oshierumanaberu.net/",
+                            "textId": "tId_Oshieru Manaberu",
+                            "label": "Oshieru Manaberu"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Keiko-to-Manabu.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.keikotomanabu.net/",
+                            "textId": "tId_Keiko-to-Manabu",
+                            "label": "Keiko-to-Manabu"
+                        }
+                    ],
+                    "isLeaf": false,
+                    "targetUri": "http://www.recruit-rgf.com/service/local_life/",
+                    "textId": "tId_Qualifications / Lessons",
+                    "label": "Qualifications / Lessons"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "iconName": "Tabroom.png",
+                            "isLeaf": true,
+                            "targetUri": "http://tabroom.jp/",
+                            "textId": "tId_Tabroom",
+                            "label": "Tabroom"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Hot Pepper Beauty.png",
+                            "isLeaf": true,
+                            "targetUri": "http://www.recruit-rgf.com/service/local_life/hotpepper.html",
+                            "textId": "tId_Hot Pepper",
+                            "label": "Hot Pepper"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "RecoCheck.png",
+                            "isLeaf": true,
+                            "targetUri": "http://recocheck.jp/",
+                            "textId": "tId_RecoCheck",
+                            "label": "RecoCheck"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Omise-no-Mikita.png",
+                            "isLeaf": true,
+                            "targetUri": "http://omisenomikata.jp/",
+                            "textId": "tId_Omise-no-Mikita",
+                            "label": "Omise-no-Mikita"
+                        },
+                        {
+                            "children": [],
+                            "iconName": "Insurance channel.png",
+                            "isLeaf": true,
+                            "targetUri": "https://hokench.com/",
+                            "textId": "tId_Insurance channel",
+                            "label": "Insurance channel"
+                        }
+                    ],
+                    "isLeaf": false,
+                    "targetUri": "http://www.recruit-rgf.com/service/local_life/",
+                    "textId": "tId_Life and Local Info",
+                    "label": "Life and Local Info"
+                }
+            ],
+            "baseColors": [
+                "#ed5148"
+            ],
+            "isLeaf": false,
+            "baseColorModifiers": null,
+            "targetUri": "http://www.recruit-rgf.com/service/local_life/",
+            "textId": "tId_Life & Local Info",
+            "label": "Life & Local Info"
+        }
+    ],
+    "baseColors": null,
+    "iconName": "Recruit Agent.png",
+    "isLeaf": false,
+    "targetUri": "http://www.recruit-rgf.com/",
+    "baseColorModifiers": null,
+    "textId": "tId_root",
+    "label": "Recruit_Ontologie"
+}

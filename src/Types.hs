@@ -178,11 +178,6 @@ testtest1 = print (encode test1) >> print (encode test2)
 testtest2 = decode "{\"tag\":\"CPATransformReplace\",\"newModel\":{\"Left\":\"test.json\"}}" :: Maybe CPAnimation
 -}
 
--- orphan instance needed only for parsing the (Either FilePath ConeTree) arguments
--- mzero, because only model filenames are allowed as of now
-instance FromJSON ConeTree where
-    parseJSON = const mzero
-
 
 #ifndef RELEASE
 deriving instance Show a => Show (ConeFrame a)

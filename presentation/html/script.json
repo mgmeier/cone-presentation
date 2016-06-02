@@ -1,0 +1,327 @@
+[{
+	"animations": [
+	{
+		"tag": "CPAClockworkPath",
+		"contents": [0,0]
+	}],
+	"comment": "selection [0,0] Title: ConeCanvas"
+}, {
+	"animations": [{
+		"tag": "CPAMoveRight",
+		"contents": 1
+	}],
+	"comment": "Title: ConeCanvas -> Hello"
+}, {
+	"animations": [{
+		"tag": "CPAMoveRight",
+		"contents": 1
+	}],
+	"comment": "Hello -> Mission"
+}, {
+	"animations": [{
+		"tag": "CPAMoveRight",
+		"contents": 1
+	}],
+	"comment": "Mission -> Separation"
+}, {
+	"animations": [{
+		"tag": "CPAMoveRight",
+		"contents": 1
+	}],
+	"comment": "Separation -> Vision"
+}, {
+	"animations": [{
+		"tag": "CPAMoveDown",
+		"contents": []
+	}],
+	"comment": "Vision -> Intranet1"
+}, {
+	"animations": [],
+	"urlExpl": "/presentation/html/img6.html",
+	"comment": "Intranet1 -> Intranet2"
+}, {
+	"animations": [],
+	"urlExpl": "/presentation/html/img7.html",
+	"comment": "Intranet2 -> Intranet3"
+}, {
+	"animations": [{
+		"tag": "CPAMoveRight",
+		"contents": 1
+	}],
+	"comment": "Intranet3 -> Intranet4"
+}, {
+	"animations": [{
+		"tag": "CPAMoveRight",
+		"contents": 1
+	}],
+	"comment": "Intranet4 -> Intranet5"
+}, {
+	"animations": [{
+		"tag": "CPAMoveUp",
+		"contents": []
+	},{
+		"tag": "CPAMoveRight",
+		"contents": 1
+	}],
+	"comment": "Intranet5 -> ConeCanvas"
+}, {
+	"animations": [{
+		"tag": "CPAMoveDown",
+		"contents": []
+	}],
+	"comment": "ConeCanvas -> Human Cognition"
+}, {
+	"animations": [],
+	"urlExpl": "/presentation/html/img13.html",
+	"comment": "Human <-> Computer -> Human <-> Computer2"
+}, {
+	"animations": [{
+		"tag": "CPAMoveRight",
+		"contents": 1
+	}],
+	"comment": "Human <-> Computer2 -> Perception"
+}, {
+	"animations": [],
+	"urlExpl": "/presentation/html/img15.html",
+	"comment": "Perception -> Meerschweinchen"
+}, {
+	"animations": [
+		{
+			"tag": "CPAClockworkTextId",
+			"contents": "Agentive Physical Object"
+		}],
+	"urlExpl": "/presentation/html/img15.html"
+}, {
+	"animations": [{
+			"tag": "CPATransformIntro",
+			"newModel": {
+				"Left": "geospecies.json"
+			},
+			"right": true
+		},
+		{
+			"tag": "CPAClockworkTextId",
+			"contents": "Kingdom Animalia"
+		}],
+	"urlExpl": "/presentation/html/img15.html"
+}, {
+	"animations": [{
+		"tag": "CPAClockworkTextId",
+		"contents": "Phylum Chordata"
+	}],
+	"urlExpl": "/presentation/html/img15.html"
+}, {
+		"animations": [{
+			"tag": "CPAClockworkTextId",
+			"contents": "Class Mammalia"
+	}],
+	"urlExpl": "/presentation/html/img15.html"
+}, {
+		"animations": [{
+			"tag": "CPAClockworkTextId",
+			"contents": "Order Rodentia"
+		}],
+	"urlExpl": "/presentation/html/img15.html"
+}, {
+		"animations": [{
+			"tag": "CPAClockworkTextId",
+			"contents": "Family Caviidae"
+		}],
+		"urlExpl": "/presentation/html/img15.html"
+}, {
+	"animations": [{
+		"tag": "CPAMoveDown",
+		"contents": []
+	}, {
+		"tag": "CPAMoveLeft",
+		"contents": 5
+	}],
+	"urlExpl": "/presentation/html/img15.html"
+}, {
+	"animations": [{
+		"tag": "CPAClockworkTextId",
+		"contents": "Tree"
+	}]
+}, {
+	"animations": [{
+		"tag": "CPAMoveRight",
+		"contents": 1
+	}],
+	"comment": "Tree -> Cone"
+}, {
+	"animations": [{
+		"tag": "CPAMoveRight",
+		"contents": 1
+	}],
+	"comment": "Cone -> Basic Concept"
+},
+{
+	"animations": [{
+		"tag": "CPAMoveRight",
+		"contents": 1
+	}],
+	"comment": "Basic Concept -> Human Cognition"
+},{
+	"animations": [{
+		"tag": "CPAClockworkTextId",
+		"contents": "Demo1"
+	}],
+	"comment": "UseCase1"
+}, {
+	"animations": [{
+		"tag": "CPAClockworkTextId",
+		"contents": "IBB"
+	}],
+	"comment": ""
+}, {
+	"animations": [{
+		"tag": "CPAClockworkTextId",
+		"contents": "Mietausgleich"
+	}]
+}, {
+	"animations": [{
+		"tag": "CPAClockworkTextId",
+		"contents": "Demo2"
+	}],
+	"comment": "UseCase2"
+}, {
+	"animations": [{
+		"tag": "CPAClockworkTextId",
+		"contents": "tId_root"
+		},{
+			"tag": "CPATransformIntro",
+			"newModel": {
+				"Left": "business.json"
+			},
+			"right": true
+	},
+	{
+			"tag": "CPAMoveDown",
+			"contents": []
+	}],
+	"comment": "UseCase1 again"
+},
+{
+	"animations": [{
+		"tag": "CPAMoveDown",
+		"contents": []
+	}, {
+		"tag": "CPAMoveLeft",
+		"contents": 2
+	}],
+	"comment": "Business Navigation 1"
+}, {
+	"animations": [{
+		"tag": "CPAMoveUp",
+		"contents": []
+	}, {
+		"tag": "CPAMoveRight",
+		"contents": 1
+	}, {
+		"tag": "CPAMoveDown",
+		"contents": []
+	}, {
+		"tag": "CPAClockworkTextId",
+		"contents": "tId_Human Resources2"
+	}],
+	"comment": "Business navigation 2"
+}, {
+	"animations": [{
+		"tag": "CPAMoveDown",
+		"contents": []
+	}, {
+		"tag": "CPATransformIntro",
+		"newModel": {
+			"Left": "personnel.json"
+		},
+		"right": true
+	}],
+	"comment": "Open personnel file"
+}, {
+	"animations": [{
+		"tag": "CPAMoveDown",
+		"contents": []
+	}, {
+		"tag": "CPAMoveRight",
+		"contents": 2
+	}, {
+		"tag": "CPAClockworkTextId",
+		"contents": "tId_Madeline Roberts"
+	}]
+}, {
+	"animations": [{
+		"tag": "CPAMoveUp",
+		"contents": []
+	}],
+	"comment": "Navigate to team leader"
+}, {
+	"animations": [{
+		"tag": "CPACut",
+		"contents": []
+	}, {
+		"tag": "CPAMoveUp",
+		"contents": []
+	}, {
+		"tag": "CPAMoveUp",
+		"contents": []
+	},{
+		"tag": "CPAMoveLeft",
+		"contents": 2
+	}, {
+		"tag": "CPAMoveDown",
+		"contents": []
+	}, {
+		"tag": "CPAPaste",
+		"contents": []
+	}],
+	"comment": "Copy & Paste reassignment"
+}, {
+	"animations": [{
+		"tag": "CPAClockworkTextId",
+		"contents": "Demo3"
+	}],
+	"comment": "End of Demo2 - > Demo3"
+}, {
+	"animations": [{
+		"tag": "CPAMoveRight",
+		"contents": 1
+	}],
+	"comment": "Demo3 -> Demo4"
+}, {
+	"animations": [{
+		"tag": "CPAMoveRight",
+		"contents": 1
+	}],
+	"comment": "Demo4 -> Advantages"
+}, {
+	"animations": [{
+		"tag": "CPAClockworkTextId",
+		"contents": "King"
+	}],
+	"comment": "Chess"
+},
+ {
+	"animations": [{
+		"tag": "CPAClockworkTextId",
+		"contents": "Technical"
+	}],
+	"comment": "Chess -> Technical"
+}, {
+	"animations": [{
+		"tag": "CPAMoveRight",
+		"contents": 1
+	}],
+	"comment": "Technical -> Team"
+}, {
+	"animations": [{
+		"tag": "CPAMoveRight",
+		"contents": 1
+	}],
+	"comment": "Team -> Conclusions"
+	}, {
+		"animations": [{
+			"tag": "CPAMoveRight",
+			"contents": 1
+		}],
+		"comment": "Conclusions -> End"	
+}]
